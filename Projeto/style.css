@@ -11,24 +11,29 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin: 0px 35px;
+    margin: 0px 0px;
     padding: 25px;
 
 }
 
 .header-logo {
     font-weight: bold;
-    font-size: 48px;
+    font-size: 38px;
     margin-right: 100px;
+
+    text-shadow: 0px 5px 6px rgba(0,0,0,0.2);
 
 }
 
 .header-buttons {
     display: flex;
     gap: 20px;
-
     font-weight: 300;
-    font-size: 24px;
+    font-size: 20px;
+}
+
+.header-actualButton {
+    color: #000000;
 }
 
 .logo-purple {
@@ -58,17 +63,17 @@
 }
 
 .form-section {
+    margin-top: 200px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: 1px solid red;
 }
 
 .form-title {
     font-weight: bold;
     font-size: 40px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 
 .form-inputs {
@@ -76,10 +81,73 @@
     gap: 30px;
 }
 
-.form-inputs input {
-    margin-bottom: 15px;
+.text {
+    margin-left: 15px;
+    width: 500px;
+    height: 230px;
+    padding: 30px;
     font-size: 20px;
+    font-weight: bolder;
+    border-radius: 6px;
+    border: 1px black solid;
+    box-shadow: 0px 13px 15px 0px rgba(0, 0, 0, 0.131);
+}
+
+.form-inputs input {
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-weight: bolder;
     padding: 10px;
     border-radius: 8px;
     border: #6C63FF 3px solid;
+
+    box-shadow: 0px 13px 15px 0px rgba(0, 0, 0, 0.131);
+}
+
+.button {
+    margin-top: 30px;
+    border-style: none;
+    cursor: pointer;
+
+    background-color: #000000;
+    color: #6C63FF;
+    font-weight: bolder;
+    font-size: 25px;
+    width: 380px;
+    height: 50px;
+    border-radius: 8px;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    margin-top: 180px;
+    background-color: #6f59fb;
+    height: 300px;
+    gap: 50px;
+}
+
+.footer-buttons-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 25px;
+    gap: 15px;
+
+    text-shadow: 0px 5px 6px rgba(0,0,0,0.2);
+
+}
+
+.footer-logo {
+    font-weight: bolder;
+    font-size: 50px;
+
+    text-shadow: 0px 5px 6px rgba(0,0,0,0.2);
+}
+
+.footer-button {
+    font-weight: bolder;
+    color: black;
 }
