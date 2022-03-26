@@ -9,4 +9,4 @@ Falta:
 - [x] ~~Terminal o CSS~~
 - [ ] Deixar a página responsiva.
 
-<img href="./Projeto/Imagens/final.png">
+<img src="./Projeto/Imagens/final.png">
