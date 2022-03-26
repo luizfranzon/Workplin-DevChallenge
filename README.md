@@ -5,7 +5,7 @@ Página do Desafio no <a href="https://www.devchallenge.com.br/challenges/5fb5ba
 
 Falta:
 
-- [x] Terminar o HTML
-- [x] Terminal o CSS
+- [x] ~~Terminar o HTML~~
+- [x] ~~Terminal o CSS~~
 - [ ] Deixar a página responsiva.
 
