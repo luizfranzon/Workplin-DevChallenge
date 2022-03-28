@@ -36,6 +36,11 @@
     color: #000000;
 }
 
+.header-actualButton:hover {
+    color: #6C63FF;
+    font-weight: 400;
+}
+
 .logo-purple {
     color: #6C63FF;
 }
@@ -140,14 +145,22 @@
 
 }
 
-.footer-logo {
-    font-weight: bolder;
-    font-size: 50px;
-
-    text-shadow: 0px 5px 6px rgba(0,0,0,0.2);
+.footer-button:hover {
+    color: white;
 }
+
 
 .footer-button {
     font-weight: bolder;
     color: black;
+}
+
+.footer-logo-top {
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 50px;
+    color: black;
+
+    text-shadow: 0px 5px 6px rgba(0,0,0,0.2);
+
 }
