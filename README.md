@@ -9,4 +9,5 @@ Falta:
 - [x] ~~Terminal o CSS~~
 - [ ] Deixar a página responsiva.
 
+<p align="center"><strong>Projeto:</strong> <a href="https://luizfranzon.github.io/Codar-DevChallenge/meu_projeto/index.html">abrir no github pages</a></p>
 <img src="./Projeto/Imagens/final.png">
