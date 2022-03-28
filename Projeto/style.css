@@ -13,7 +13,6 @@
     align-items: center;
     margin: 0px 0px;
     padding: 55px;
-
 }
 
 .header-logo {
@@ -21,8 +20,7 @@
     font-size: 38px;
     margin-right: 100px;
 
-    text-shadow: 0px 5px 6px rgba(0,0,0,0.2);
-
+    text-shadow: 0px 5px 6px rgba(0, 0, 0, 0.2);
 }
 
 .header-buttons {
@@ -37,12 +35,12 @@
 }
 
 .header-actualButton:hover {
-    color: #6C63FF;
+    color: #6c63ff;
     font-weight: 400;
 }
 
 .logo-purple {
-    color: #6C63FF;
+    color: #6c63ff;
 }
 
 .main {
@@ -64,7 +62,7 @@
 }
 
 .purple {
-    color: #6C63FF;
+    color: #6c63ff;
 }
 
 .form-section {
@@ -104,7 +102,7 @@
     font-weight: bolder;
     padding: 10px;
     border-radius: 8px;
-    border: #6C63FF 3px solid;
+    border: #6c63ff 3px solid;
 
     box-shadow: 0px 13px 15px 0px rgba(0, 0, 0, 0.131);
 }
@@ -115,7 +113,7 @@
     cursor: pointer;
 
     background-color: #000000;
-    color: #6C63FF;
+    color: #6c63ff;
     font-weight: bolder;
     font-size: 25px;
     width: 380px;
@@ -141,14 +139,12 @@
     font-size: 25px;
     gap: 15px;
 
-    text-shadow: 0px 5px 6px rgba(0,0,0,0.2);
-
+    text-shadow: 0px 5px 6px rgba(0, 0, 0, 0.2);
 }
 
 .footer-button:hover {
     color: white;
 }
-
 
 .footer-button {
     font-weight: bolder;
@@ -161,6 +157,5 @@
     font-size: 50px;
     color: black;
 
-    text-shadow: 0px 5px 6px rgba(0,0,0,0.2);
-
+    text-shadow: 0px 5px 6px rgba(0, 0, 0, 0.2);
 }
